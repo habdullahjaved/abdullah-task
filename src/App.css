@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border-radius: 12px !important;
+}
+.css-10mzr36-MuiGrid-root > .MuiGrid-item {
+  padding: 60px;
+}
+.css-c50an0-MuiButtonBase-root-MuiButton-root {
+  border-radius: 12px;
+  padding: 10px;
+}
+.css-c50an0-MuiButtonBase-root-MuiButton-root:active {
+  border: none;
+}
